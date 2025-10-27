@@ -1,0 +1,7 @@
+pykrx
+pandas
+numpy
+gspread
+oauth2client
+python-telegram-bot==13.*
+requests
